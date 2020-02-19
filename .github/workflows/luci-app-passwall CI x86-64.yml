@@ -1,4 +1,4 @@
-name: luci-app-passwall CI x86-64
+name: luci-app-passwallfyglinf
 on:
   release:
   #  types: [published]
